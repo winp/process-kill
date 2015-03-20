@@ -8,7 +8,7 @@ is loaded. Press `Terminate` to end all of them.
 ## demo
 
 ### start cs-process-terminate
-![img | width=50%](/assets/img/0.png)
+[[/assets/img/0.png | width=50%]]
 ![img | width=50%](/assets/img/1.png)
 ![img | width=50%](/assets/img/2.png)
 ![img | width=50%](/assets/img/3.png)
