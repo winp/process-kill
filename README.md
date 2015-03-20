@@ -10,17 +10,17 @@ is loaded. Press `Terminate` to end all of them.
 
 ### start cs-process-terminate
 
-<img src="/assets/img/0.png" width="50%">
+<img src="/assets/img/0.png" width="50%"><br/>
 Start Process Terminate. Previously set termination list is loaded.
 
 
-<img src="/assets/img/1.png" width="50%">
+<img src="/assets/img/1.png" width="50%"><br/>
 Start Process Terminate. Previously set termination list is loaded.
 
 
-<img src="/assets/img/2.png" width="50%">
+<img src="/assets/img/2.png" width="50%"><br/>
 Start Process Terminate. Previously set termination list is loaded.
 
 
-<img src="/assets/img/3.png" width="50%">
+<img src="/assets/img/3.png" width="50%"><br/>
 Start Process Terminate. Previously set termination list is loaded.
