@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace sw_Terminate.Properties {
+namespace ProcessKill.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

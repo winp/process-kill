@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sw_Terminate", "sw_Terminate\sw_Terminate.csproj", "{7FA2A097-A051-4C9C-B432-FA76354BBA92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessKill", "ProcessKill.csproj", "{7FA2A097-A051-4C9C-B432-FA76354BBA92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
